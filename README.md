@@ -1,13 +1,13 @@
 
 # 📊 Personal Power BI Projects 📈
 ## 📝 Overview
-This repository houses my Personal Power BI Projects, featuring various data visualization and analysis dashboards. Each project includes a.pbix file for the dashboard and a corresponding.xlsx file serving as the sample database.
+This repository houses my Personal Power BI Projects, featuring various data visualization and analysis dashboards. Each project includes a.pbix file for the dashboard and a corresponding .xlsx/.csv file serving as the sample database.
 
 ## 🛠️ Setup
 
 To explore these projects:
 1. Clone the repository to your local machine.
-2. Navigate to individual project folders for access to .pbix and .xlsx files.
+2. Navigate to individual project folders for access to .pbix and .xlsx/.csv files.
 
 ## Power BI 🚀
 
